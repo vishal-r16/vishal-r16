@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Raj
 
-<!--
-**vishal-r16/vishal-r16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud & DevOps enthusiast | Currently @ ICICI Bank  
+🎓 Mechanical Engg. | NIT Jamshedpur  
+📍 Based in Mumbai
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Cloud infra automation @ ICICI  
+- Learning AWS, Linux, Docker
+
+### 👯 Open to Collaborate On
+- Small DevOps / Infra tools  
+- Simple frontend websites (React/Vue)
+
+### 🌱 Learning
+- AWS, Docker, Kubernetes  
+- GitHub Actions, Jenkins
+
+### 💬 Ask Me About
+- Linux basics, Git, cloud learning path  
+- Getting started with React or Vue
+
+### 📫 Reach Me
+- Email: vishal.work16@gmail.com  
+- LinkedIn: [linkedin.com/in/vishal-r16](https://www.linkedin.com/in/vishal-r16/)
+
+---
+
+### ⚙️ Skills (in progress)
+`Linux` `Git` `AWS` `Docker` `React` `Vue` `JavaScript` `Python`  
